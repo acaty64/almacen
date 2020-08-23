@@ -1,0 +1,7 @@
+*
+!public/
+!docs/
+!Store/
+!images/
+
+!.gitignore

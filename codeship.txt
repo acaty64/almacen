@@ -1,0 +1,3 @@
+
+php artisan migrate:fresh --seed --database=mysql_tests
+php artisan db:seed --class=UsersSeeder
